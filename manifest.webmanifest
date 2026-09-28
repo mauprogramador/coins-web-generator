@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "COinS Web Generator",
+  "version": "0.0.1",
+  "author": "mauprogramador",
+  "description": "Web-based tool to generate COinS metadata for bibliographic references",
+  "homepage_url": "https://github.com/mauprogramador/coins-web-generator/tree/v0.0.1",
+  "icons": [
+    {
+      "src": "static/img/favicon.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon"
+    }
+  ],
+  "dir": "ltr",
+  "lang": "en-US",
+  "short_name": "COinS Gen",
+  "start_url": ".",
+  "orientation": "portrait",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2ba2b4"
+}

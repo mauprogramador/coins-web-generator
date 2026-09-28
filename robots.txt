@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /tests/
+
+# Block AI Crawlers
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: Google-Extended
+User-agent: Anthropic-AI
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: PerplexityBot
+User-agent: CCBot
+User-agent: Cohere-ai
+User-agent: Omgilibot
+User-agent: Bytespider
+User-agent: Diffbot
+User-agent: FacebookBot
+User-agent: ImagesiftBot
+User-agent: Omgili
+Disallow: /
