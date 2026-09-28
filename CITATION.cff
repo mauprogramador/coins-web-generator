@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: COinS Web Generator
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Maurício
+    family-names: Silva Batista
+    email: sir.silvabmaurício@gmail.com
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/mauprogramador/coins-web-generator/tree/v0.1.1
+    description: Latest release
+repository-code: 'https://github.com/mauprogramador/coins-web-generator'
+url: 'https://mauprogramador.github.io/coins-web-generator'
+abstract: >-
+  Web-based tool to generate COinS metadata for
+  bibliographic references
+keywords:
+  - coins
+  - openurl
+  - Z39.88
+  - bibliographic references
+  - bibliographic-metadata
+  - web app
+  - citation-generator
+license: MIT
+commit: 0b2b512882495597d33fc028e1dbfe5b93e86d0f
+version: 0.1.1
+date-released: '2026-09-28'
